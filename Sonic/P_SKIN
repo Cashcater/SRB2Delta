@@ -1,0 +1,16 @@
+name = sonic
+flags = SF_SUPER
+realname = Sonic
+hudname = SONIC
+prefcolor = blue
+supercolor = gold
+prefoppositecolor = yellow
+ability = CA_NONE
+ability2 = CA2_SPINDASH
+actionspd = 40
+jumpfactor = 1
+normalspeed = 36
+runspeed = 28
+thrustfactor = 3
+accelstart = 230
+acceleration = 50
