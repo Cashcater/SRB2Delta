@@ -1,0 +1,15 @@
+name = fang
+flags = SF_SUPER|SF_NOJUMPSPIN|SF_NOJUMPDAMAGE|SF_NOSHIELDABILITY|SF_FASTEDGE
+realname = Fang
+hudname = FANG
+prefcolor = lavender
+supercolor = purple
+prefoppositecolor = sunset
+ability = CA_BOUNCE
+ability2 = CA2_GUNSLINGER
+jumpfactor = 1
+normalspeed = 36
+runspeed = 28
+thrustfactor = 3
+accelstart = 200
+acceleration = 50
