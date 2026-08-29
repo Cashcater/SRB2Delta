@@ -1,0 +1,15 @@
+name = metalsonic
+flags = SF_SUPER|SF_DASHMODE|SF_MACHINE|SF_NOSKID
+realname = Metal_Sonic
+hudname = METAL
+prefcolor = cobalt
+supercolor = rust
+prefoppositecolor = crimson
+ability = CA_NONE
+ability2 = CA2_NONE
+normalspeed = 36
+runspeed = 28
+jumpfactor = 1
+thrustfactor = 3
+accelstart = 200
+acceleration = 50

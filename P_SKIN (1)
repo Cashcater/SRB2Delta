@@ -1,0 +1,17 @@
+name = knuckles
+flags = SF_SUPER|SF_CANBUSTWALLS|SF_NOSUPERJUMPBOOST
+realname = Knuckles
+hudname = K.T.E
+prefcolor = red
+supercolor = red
+prefoppositecolor = emerald
+ability = CA_GLIDEANDCLIMB
+ability2 = CA2_SPINDASH
+height = 54
+actionspd = 25
+jumpfactor = 0.81
+normalspeed = 36
+runspeed = 28
+thrustfactor = 3
+accelstart = 200
+acceleration = 50

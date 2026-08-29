@@ -1,0 +1,17 @@
+name = tails
+flags = SF_SUPER
+realname = Tails
+hudname = TAILS
+prefcolor = orange
+supercolor = orange
+prefoppositecolor = sky
+ability = CA_FLY
+ability2 = CA2_SPINDASH
+height = 42
+actionspd = 90
+jumpfactor = 1
+normalspeed = 36
+runspeed = 28
+thrustfactor = 3
+accelstart = 200
+acceleration = 50
